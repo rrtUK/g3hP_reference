@@ -1,0 +1,11 @@
+# basic options
+title: g3hP_reference
+author: red bullion
+email: r3d@redbullion.com
+description: g3hP reference site and devlog
+twitter_username: redbullion_tbd
+github_username:  rrtUK
+
+# Build settings
+markdown: kramdown
+theme: minima
